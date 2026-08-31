@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemModifierGroups>
+	<ItemModifierGroup
+		id="sling"
+		no_modifier_loot_score="45"
+		no_modifier_production_score="75" />
+	<ItemModifierGroup
+		id="stone"
+		no_modifier_loot_score="45"
+		no_modifier_production_score="75" />
+</ItemModifierGroups>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Module>
+	<Name value = "Sling modifiers"/>
+	<Id value = "Sling modifiers"/>
+	<Version value = "v1.4.7"/>
+	<DefaultModule value="false"/>
+	<ModuleCategory value="Singleplayer"/>
+  <ModuleType value ="Community" />
+  <DependedModules>
+		<DependedModule Id="Native" DependentVersion="v1.4.7" Optional="false"/>
+	</DependedModules>
+	<SubModules />
+	<Xmls>
+		<XmlNode>                
+			<XmlName id="Items" path="items" />
+			<IncludedGameTypes>
+				<GameType value="Campaign" />
+				<GameType value="CampaignStoryMode" />
+				<GameType value="CustomGame" />
+				<GameType value="EditorGame" />
+			</IncludedGameTypes>
+		</XmlNode>  
+		<XmlNode>                
+			<XmlName id="ItemModifiers" path="item_modifiers" />
+		</XmlNode>               
+		<XmlNode>                
+			<XmlName id="ItemModifierGroups" path="item_modifiers_groups" />
+		</XmlNode>
+	</Xmls>
+</Module>
