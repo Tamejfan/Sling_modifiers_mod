@@ -1,5 +1,5 @@
 # Sling_modifiers_mod
-A simple mod for Mount and Blade2:Bannerlord to add item modifiers (legendary, balanced...) to slings and sling ammo. Added both positive and negative modifiers. I used the stats for crossbows, bows, bolts and arrows as reference for the numbers. The names should even be localized.
+A simple mod for Mount and Blade2: Bannerlord to add item modifiers (legendary, balanced...) to slings and sling ammo. Added both positive and negative modifiers. I used the stats for crossbows, bows, bolts and arrows as reference for the numbers. The names should even be localized.
 
 As always it is recommended to backup your save file, but this mod is very basic so no bigger issues should arise. From my own testing, I found that using and later removing the mod in a save file only removes the affected items.
 
